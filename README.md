@@ -1,5 +1,5 @@
 ## Boston BLUEbikes Demand Prediction
-[Notebook Viewer]() | [Notebook](notebooks/BLUEbikes_demand_prediction.ipynb)
+[Notebook Viewer](https://nbviewer.jupyter.org/github/m0006/BLUEbikes-RNN-forecast/blob/master/notebooks/BLUEbikes_demand_prediction.ipynb) | [Notebook](notebooks/BLUEbikes_demand_prediction.ipynb)
 
 **Notebook analyzing Boston BLUEbikes trip data and forecasting bike pickups with LSTM Recurrent Neural Network (RNN) Using Tensorflow.**
 
